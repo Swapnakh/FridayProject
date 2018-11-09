@@ -4,7 +4,13 @@ Public Class StringReverse{
 StringReverse()
 
 {
+rev= " "
+
+reverse=  rev + ReursivestringReverse()
 
 }
+public void ReursivestringReverse()
+{
 
+}
 }
